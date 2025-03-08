@@ -37,6 +37,21 @@ For the fishermen of Seaview, this means they can’t rely on a simple rule like
 ![{D1E35659-4F1D-4119-ABC1-7366256FF599}](https://github.com/user-attachments/assets/2f18fed5-3096-41b6-83f1-1bdc37f9c669)
 ![{933BF7B1-D124-401D-9181-D6071DBD5E81}](https://github.com/user-attachments/assets/985d51cb-936c-4d91-a9b6-185703ee1cfc)
 
+## Built With ❤️ & 💻  
+- A curious mind 🤯  
+- Streamlit magic 🎩✨  
+- Python spells 🐍  
+- Data crunching with NumPy & Pandas 📊  
+- Visualization vibes with Matplotlib 🎨  
+
+## Contributor  
+- 🛠️ Junaid Shariff 🚀  
+
+## Acknowledgement
+Under guidance of  [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)
+
+
+
 
 
 

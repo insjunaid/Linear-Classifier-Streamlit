@@ -2,7 +2,8 @@
 
 Welcome to the **Linear Classifier Streamlit Project**, a machine learning application designed to classify fish species (Blue Fish and Orange Fish) based on water depth and temperature data. This project was developed as part of a learning exercise to implement a logistic regression model and deploy it using Streamlit, with data visualization capabilities.
 
-![Image](https://github.com/user-attachments/assets/e07cd210-813a-487e-8b2f-adefddae43ad)
+![{9962440B-F852-46BA-8DAD-C48A97087AA7}](https://github.com/user-attachments/assets/1c08a7bf-5e4a-4998-a9bb-ea81a4b2d810)
+
 ## Overview
 
 This project simulates a scenario where marine biologists and fishermen from a coastal town (inspired by the fictional Seaview) study two fish species:

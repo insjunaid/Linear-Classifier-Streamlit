@@ -35,4 +35,6 @@ This overlap suggests that depth and temperature alone aren’t enough to distin
 For the fishermen of Seaview, this means they can’t rely on a simple rule like “fish in deep, warm waters for Orangetail Groupers.” They’ll need to work closely with the biologists to find better ways to identify the fish—or perhaps adjust their fishing practices to avoid catching too many of the wrong species. In the meantime, this scatter plot is a reminder of the complexity of nature, where even two seemingly straightforward measurements can reveal a tangled web of life beneath the waves.
 
 ![{D1E35659-4F1D-4119-ABC1-7366256FF599}](https://github.com/user-attachments/assets/2f18fed5-3096-41b6-83f1-1bdc37f9c669)
+![{933BF7B1-D124-401D-9181-D6071DBD5E81}](https://github.com/user-attachments/assets/985d51cb-936c-4d91-a9b6-185703ee1cfc)
+
 

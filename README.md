@@ -33,3 +33,5 @@ However, the plot tells a complicated story. The Bluefin Snappers tend to prefer
 This overlap suggests that depth and temperature alone aren’t enough to distinguish between the two species. Maybe other factors, like salinity, ocean currents, or the type of food available in those waters, play a role in where these fish live. The biologists might need to collect more data or use a more sophisticated model to predict the fish species accurately.
 
 For the fishermen of Seaview, this means they can’t rely on a simple rule like “fish in deep, warm waters for Orangetail Groupers.” They’ll need to work closely with the biologists to find better ways to identify the fish—or perhaps adjust their fishing practices to avoid catching too many of the wrong species. In the meantime, this scatter plot is a reminder of the complexity of nature, where even two seemingly straightforward measurements can reveal a tangled web of life beneath the waves.
+
+![Image](https://github.com/user-attachments/assets/06294d94-60b7-440e-8ac1-073aa3327b74)
